@@ -10,6 +10,10 @@ Machine Learning Models:
 
 XGBoost: Trained as a baseline model.
 
+Deep Learning:
+
+ANN(Artificial Neural Network)
+
 GRU (Gated Recurrent Unit): Used for sequence-based predictions.
 
 Performance Evaluation: Computes MAE, MSE, RMSE, and R² score.
@@ -40,3 +44,8 @@ Use external market indicators (e.g., trading volume, economic factors).
 
 🤝 Contributing
 Feel free to fork this repo, open an issue, or submit a pull request to improve the project.
+
+
+Bitcoin_Prediction.ipynb file contain model training, data cleaning, data loading
+
+Bitcoin_Price_Prediction file is used to take input from the user and predict the closing price of the Bitcoin
